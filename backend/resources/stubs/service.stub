@@ -1,0 +1,20 @@
+<?php
+
+namespace {{ namespace }};
+
+class {{ class }}
+{
+    /**
+     * Create a new service instance.
+     */
+    public function __construct()
+    {
+        //
+    }
+
+    // ========================  Service Methods  ========================
+    public function exampleMethod()
+    {
+        //
+    }
+}

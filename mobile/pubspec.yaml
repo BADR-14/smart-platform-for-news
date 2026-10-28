@@ -1,0 +1,51 @@
+name: smart_news
+description: "Smart Platform for News — تطبيق المستخدم والشركة"
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  # النسخة تحددها flutter_localizations
+  intl: any
+
+  # إدارة الحالة والتنقل وحقن الاعتماديات
+  get: ^4.7.3
+
+  # الشبكة والتخزين
+  dio: ^5.9.2
+  flutter_secure_storage: ^9.2.4
+
+  # الواجهة
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.4.1
+  cupertino_icons: ^1.0.8
+
+  # ميزات الجهاز
+  image_picker: ^1.2.1
+  url_launcher: ^6.3.2
+  google_sign_in: ^7.2.0
+
+  # الخريطة (OpenStreetMap — بدون مفتاح)
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1
+  firebase_core: ^4.15.0
+  firebase_messaging: ^16.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/images/splash/

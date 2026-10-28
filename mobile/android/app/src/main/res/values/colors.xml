@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <!-- لون شاشة الإقلاع: نفس أبيض شاشة البداية في Flutter حتى لا يظهر وميض أبيض -->
+    <color name="splash_background">#FFFFFF</color>
+</resources>
