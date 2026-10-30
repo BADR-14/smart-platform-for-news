@@ -203,10 +203,9 @@ flutter run --dart-define-from-file=dart_defines.json
 
 **Badr AlDeen AlSaudi** — مهندس برمجيات (تطوير الويب)
 
-- LinkedIn: [رابط لينكدإن هون]
-- Portfolio: [رابط البورتفوليو هون]
-- Email: [إيميلك هون]
-- GitHub: [رابط حساب GitHub هون]
+- LinkedIn: [www.linkedin.com/in/badr-al-deen-sudi]
+- Email: [badrdsudi14@gmail.com]
+- GitHub: [https://github.com/BADR-14]
 
 ---
 
